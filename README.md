@@ -1,1 +1,1 @@
-# Neural Network Design (2nd Edition) Solution Manual
+# Neural Network Design (2nd Edition) Solutions Manual
