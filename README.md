@@ -4,7 +4,8 @@
 
 Title : Neural Network Design (2nd Edition) \
 Authors : Martin T. Hagan, Howard B. Demuth, Mark H. Beale, Orlando De Jesus \
-Total Chapters : 1 to 22 + 5 Case Studies
+ISBN-10 : 0-9717321-1-6 \
+ISBN-13 : 978-0-9717321-1-7 \
 
 
 ### Chapters included :
