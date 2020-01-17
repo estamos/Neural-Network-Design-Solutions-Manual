@@ -19,7 +19,7 @@ Chapter | Name |
 17 | Radial Basis Networks (RBF)
 
 
-Included solutions :
+### Included solutions :
 
 Chapter | Exercise | Add Date | Update Date
 :------:|----------|----------|-----------------
