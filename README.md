@@ -19,6 +19,7 @@ Chapter | Name |
 16 | Competitive Networks (CNN)
 17 | Radial Basis Networks (RBF)
 
+#### &#x1F536; Note that some solutions contain Greek language text , you can either ignore it or use Google Translate .
 
 ### Included solutions :
 
