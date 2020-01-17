@@ -55,6 +55,6 @@ E16.1 E16.3 E16.5 E16.7 | [doc](http://web.mst.edu/~dagli/emgt378fall2001/Homewo
 - [Introduction to Neural Networks and Applications - Fall 2001 - Missouri University of Science and Technology](http://web.mst.edu/~dagli/emgt378fall2001/emgt378fall2001.htm)
 - [Index of above webpage](http://web.mst.edu/~dagli/emgt378fall2001/)
 
-- [Chapter 2 - 4 Notes and exercises by @jtcass01](https://github.com/jtcass01/Neural-Network-Design)
+- [Chapter 2 to 4 Notes and exercises by @jtcass01](https://github.com/jtcass01/Neural-Network-Design)
 
 
