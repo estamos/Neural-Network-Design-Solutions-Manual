@@ -31,6 +31,13 @@ Chapter | Exercise | Add Date | Update Date
 
 ### More solutions available:
 
+#### &#x1F536; Note that for many exercises below enumeration is based on the 1st edition book .
+
+Title : Neural Network Design \
+Authors : Martin T. Hagan, Howard B. Demuth, Mark H. Beale \
+ISBN : 978-0-534-94332-5 \
+Publishing Company, Boston, MA, 1996
+
 Exercises | Download | 
 :-------:|:----:|
 E2.2 | [webpage](http://web.mst.edu/~dagli/emgt378fall2001/e22.htm)
