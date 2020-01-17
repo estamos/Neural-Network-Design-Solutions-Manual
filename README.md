@@ -45,7 +45,7 @@ E15.6 E15.7 E14.4 E14.8 | [doc](http://web.mst.edu/~dagli/emgt378fall2001/Homewo
 E16.1 E16.3 E16.5 E16.7 | [doc](http://web.mst.edu/~dagli/emgt378fall2001/Homework11.doc)
 
 ### Relative webpages
-- [Missouri University of Science and Technology ](http://web.mst.edu/~dagli/emgt378fall2001/emgt378fall2001.htm)
+- [Introduction to Neural Networks and Applications - Fall 2001 - Missouri University of Science and Technology](http://web.mst.edu/~dagli/emgt378fall2001/emgt378fall2001.htm)
 - [Index of above webpage](http://web.mst.edu/~dagli/emgt378fall2001/)
 
 
