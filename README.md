@@ -49,6 +49,7 @@ Exercises | Download |
 E2.2 | [webpage](http://web.mst.edu/~dagli/emgt378fall2001/e22.htm)
 E2.3 | [webpage](http://web.mst.edu/~dagli/emgt378fall2001/e23.htm)
 E3.1 | [doc](http://web.mst.edu/~dagli/emgt378fall2001/e31.doc)
+E4.2 E4.3 E4.4 E4.5 E4.6 E4.8 | [webpage](https://zainulabidin.wordpress.com/2012/10/03/neural-network-design-by-martin-t-hagan-chapter4-exercise-solutions/)
 E4.3 E4.8 | [doc](http://web.mst.edu/~dagli/emgt378fall2001/Homework4.doc)
 E8.5 E9.2 E9.6 | [doc](http://web.mst.edu/~dagli/emgt378fall2001/Homework5.doc)
 E10.4 E10.5 E11.7 E11.11 | [doc](http://web.mst.edu/~dagli/emgt378fall2001/Homework6.doc)
