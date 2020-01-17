@@ -12,7 +12,9 @@ A PDF version of this textbook can be found at : http://hagan.okstate.edu/NNDesi
 
 Chapter | Name |
 :------:|:----:|
-7  | Supervised Hebbian Learning
+2  | Neuron Model and Network Architectures
+4  | Perceptron Learning Rule
+10 | Widrow-Hoff Learning
 11 | Backpropagation
 12 | Variations on Backpropagation
 14 | Dynamic Networks (DNN)
@@ -25,10 +27,13 @@ Chapter | Name |
 
 Chapter | Exercise | Add Date | Update Date
 :------:|----------|----------|-----------------
-7  |
-11 | E11.9 E11.10 E11.11 E11.13 E11.25
-12 | E12.11 E12.7
-17 | E17.2 E17.3 E17.5 P17.13
+2 | E2.6 | 17-01-20 | 17-01-20 
+4 | E4.8 | 17-01-20 | 17-01-20 
+10 | E10.5 E10.12 | 17-01-20 | 17-01-20
+11 | E11.9 E11.10 E11.11 E11.13 E11.25 | 17-01-20 | 17-01-20
+12 | E12.11 E12.7 | 17-01-20 | 17-01-20
+16 | E16.13 | 17-01-20 | 17-01-20
+17 | E17.3 E17.5 | 17-01-20 | 17-01-20
 
 ### More solutions available:
 
