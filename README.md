@@ -14,7 +14,7 @@ Chapter | Name |
 
 Included solutions :
 
-Chapter | Exercise | Add Date | Last update Date
+Chapter | Exercise | Add Date | Update Date
 :------:|----------|----------|-----------------
 7  |
 11 | E11.9 E11.10 E11.11 E11.13 E11.25
