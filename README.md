@@ -12,7 +12,9 @@ A PDF version of this textbook can be found at : http://hagan.okstate.edu/NNDesi
 
 Chapter | Name |
 :------:|:----:|
-7  | Supervised Hebbian Learning
+2  | Neuron Model and Network Architectures
+4  | Perceptron Learning Rule
+10 | Widrow-Hoff Learning
 11 | Backpropagation
 12 | Variations on Backpropagation
 14 | Dynamic Networks (DNN)
@@ -24,11 +26,14 @@ Chapter | Name |
 ### Included solutions :
 
 Chapter | Exercise | Add Date | Update Date
-:------:|----------|----------|-----------------
-7  |
-11 | E11.9 E11.10 E11.11 E11.13 E11.25
-12 | E12.11 E12.7
-17 | E17.2 E17.3 E17.5 P17.13
+:------:|:--------:|:--------:|:----------:
+2 | E2.6 | 17-01-20 | 17-01-20 
+4 | E4.8 | 17-01-20 | 17-01-20 
+10 | E10.5 E10.12 | 17-01-20 | 17-01-20
+11 | E11.9 E11.10 E11.11 E11.13 E11.25 | 17-01-20 | 17-01-20
+12 | E12.11 E12.7 | 17-01-20 | 17-01-20
+16 | E16.13 | 17-01-20 | 17-01-20
+17 | E17.3 E17.5 | 17-01-20 | 17-01-20
 
 ### More solutions available:
 
@@ -44,6 +49,7 @@ Exercises | Download |
 E2.2 | [webpage](http://web.mst.edu/~dagli/emgt378fall2001/e22.htm)
 E2.3 | [webpage](http://web.mst.edu/~dagli/emgt378fall2001/e23.htm)
 E3.1 | [doc](http://web.mst.edu/~dagli/emgt378fall2001/e31.doc)
+E4.2 E4.3 E4.4 E4.5 E4.6 E4.8 | [webpage](https://zainulabidin.wordpress.com/2012/10/03/neural-network-design-by-martin-t-hagan-chapter4-exercise-solutions/)
 E4.3 E4.8 | [doc](http://web.mst.edu/~dagli/emgt378fall2001/Homework4.doc)
 E8.5 E9.2 E9.6 | [doc](http://web.mst.edu/~dagli/emgt378fall2001/Homework5.doc)
 E10.4 E10.5 E11.7 E11.11 | [doc](http://web.mst.edu/~dagli/emgt378fall2001/Homework6.doc)
