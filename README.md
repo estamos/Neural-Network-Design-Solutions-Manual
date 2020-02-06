@@ -1,4 +1,27 @@
-# Neural Network Design (2nd Edition) Solutions Manual
+<h1 align="center">
+  <a href="https://github.com/estamos/Neural-Network-Design-Solutions-Manua" title="Neural Network Design Solutions Manual">
+    <img alt="Neural Network Design Solutions Manual" src="https://hagan.okstate.edu/smallCover.jpg" width="200px" height="200px" />
+  </a>
+  <br />
+  Solutions Manual
+</h1>
+
+<p align="center">
+  Neural Network Design (2nd Edition) 
+</p>
+
+<div align="center">
+  <a href="https://www.paypal.me/evangelosstamos">
+    <img alt="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue.svg" />
+  </a>
+  <a href="https://www.buymeacoffee.com/estamos">
+    <img alt="Donate" src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg" />
+  </a>
+  <a href="http://hagan.okstate.edu/NNDesign.pdf">
+    <img alt="Example PDF" src="https://img.shields.io/badge/Book-red.svg" />
+  </a>
+</div>
+
 
 ### [Book](https://hagan.okstate.edu/nnd.html) details 
 
