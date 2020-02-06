@@ -18,7 +18,7 @@
     <img alt="Donate" src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg" />
   </a>
   <a href="http://hagan.okstate.edu/NNDesign.pdf">
-    <img alt="Example PDF" src="https://img.shields.io/badge/Book-red.svg" />
+    <img alt="Example PDF" src="https://img.shields.io/badge/Book-pdf-red.svg" />
   </a>
 </div>
 
