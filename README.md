@@ -1,4 +1,27 @@
-# Neural Network Design (2nd Edition) Solutions Manual
+<h1 align="center">
+  <a href="https://github.com/estamos/Neural-Network-Design-Solutions-Manua" title="Neural Network Design Solutions Manual">
+    <img alt="Neural Network Design Solutions Manual" src="https://hagan.okstate.edu/smallCover.jpg" width="200px" height="200px" />
+  </a>
+  <br />
+  Solutions Manual
+</h1>
+
+<p align="center">
+  Neural Network Design (2nd Edition) 
+</p>
+
+<div align="center">
+  <a href="https://www.paypal.me/evangelosstamos">
+    <img alt="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue.svg" />
+  </a>
+  <a href="https://www.buymeacoffee.com/estamos">
+    <img alt="Donate" src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg" />
+  </a>
+  <a href="http://hagan.okstate.edu/NNDesign.pdf">
+    <img alt="Example PDF" src="https://img.shields.io/badge/Book-pdf-red.svg" />
+  </a>
+</div>
+
 
 ### [Book](https://hagan.okstate.edu/nnd.html) details 
 
@@ -14,6 +37,7 @@ Chapter | Name |
 :------:|:----:|
 2  | Neuron Model and Network Architectures
 4  | Perceptron Learning Rule
+7  | Supervised Hebbian Learning
 10 | Widrow-Hoff Learning
 11 | Backpropagation
 12 | Variations on Backpropagation
@@ -28,11 +52,12 @@ Chapter | Name |
 Chapter | Exercise | Add Date | Update Date
 :------:|:--------:|:--------:|:----------:
 2 | E2.6 | 17-01-20 | 17-01-20 
-4 | E4.8 | 17-01-20 | 17-01-20 
+4 | E4.8 | 17-01-20 | 17-01-20
+7 | E7.5 E7.9 | 03-03-20 | 03-04-20
 10 | E10.5 E10.12 | 17-01-20 | 17-01-20
 11 | E11.9 E11.10 E11.11 E11.13 E11.25 | 17-01-20 | 17-01-20
 12 | E12.11 E12.7 | 17-01-20 | 17-01-20
-16 | E16.13 | 17-01-20 | 17-01-20
+16 | E16.5 E16.13 | 17-01-20 | 03-04-20
 17 | E17.3 E17.5 | 17-01-20 | 17-01-20
 
 ### More solutions available:
