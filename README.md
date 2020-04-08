@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a href="https://github.com/estamos/Neural-Network-Design-Solutions-Manua" title="Neural Network Design Solutions Manual">
-    <img alt="Neural Network Design Solutions Manual" src="https://hagan.okstate.edu/smallCover.jpg" width="200px" height="200px" />
+  <a href="https://github.com/estamos/Neural-Network-Design-Solutions-Manual" title="Neural Network Design Solutions Manual">
+    <img alt="Neural Network Design Solutions Manual" src="https://hagan.okstate.edu/smallCover.jpg" width="260px" height="3200px" />
   </a>
   <br />
   Solutions Manual
