@@ -22,7 +22,7 @@
   </a>
 </div>
 
-> This is not a completed full Solutions Manual. In case you need help with any exercise you can have a look at [Artificial Intelligence Stack Exchange](https://ai.stackexchange.com/) which is the best community to learn and discuss.
+> This is not a completed Solutions Manual. In case you need help with any exercise of the book or generally you have a question about Neural Networks you can have a look at [Artificial Intelligence Stack Exchange](https://ai.stackexchange.com/), which is the best community to learn and discuss.
 
 ### [Book](https://hagan.okstate.edu/nnd.html) details 
 
