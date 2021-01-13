@@ -1,14 +1,3 @@
-# CE418: Neuro-fuzzy Computing
-#
-#   Evangelos Stamos
-#   02338
-#   estamos@e-ce.uth.gr
-
-# Problem-08
-#
-# suppose : linearly seperable classes, M = 2, labeled input training set data
-#
-
 import numpy as np
 
 import matplotlib.pyplot as plt
