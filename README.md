@@ -50,16 +50,16 @@ Chapter | Name |
 
 ### Included solutions :
 
-Chapter | Exercise | Add Date | Update Date
-:------:|:--------:|:--------:|:----------:
-2 | E2.6 | 17-01-20 | 17-01-20 
-4 | E4.8 | 17-01-20 | 17-01-20
-7 | E7.5 E7.9 | 03-04-20 | 03-04-20
-10 | E10.5 E10.12 | 17-01-20 | 17-01-20
-11 | E11.9 E11.10 E11.11 E11.13 E11.25 | 17-01-20 | 17-01-20
-12 | E12.11 E12.7 | 17-01-20 | 17-01-20
-16 | E16.5 E16.13 | 17-01-20 | 03-04-20
-17 | E17.3 E17.5 | 17-01-20 | 17-01-20
+Chapter | Exercise | Add Date | Update Date | Author(s)
+:------:|:--------:|:--------:|:-----------:|:------:
+2 | E2.6 | 17-01-20 | 17-01-20 | [@estamos](https://github.com/estamos/)
+4 | E4.8 | 17-01-20 | 17-01-20 | [@estamos](https://github.com/estamos/)
+7 | E7.1 E7.2 E7.6 E7.5 E7.6 E7.9 | 03-04-20 | 14-01-21 | [@estamos](https://github.com/estamos/) & [@OUStudent](https://github.com/OUStudent/)
+10 | E10.5 E10.12 | 17-01-20 | 17-01-20  | [@estamos](https://github.com/estamos/)
+11 | E11.9 E11.10 E11.11 E11.13 E11.25 | 17-01-20 | 17-01-20  | [@estamos](https://github.com/estamos/)
+12 | E12.11 E12.7 | 17-01-20 | 17-01-20 | [@estamos](https://github.com/estamos/)
+16 | E16.5 E16.13 | 17-01-20 | 03-04-20 | [@estamos](https://github.com/estamos/)
+17 | E17.3 E17.5 | 17-01-20 | 17-01-20 | [@estamos](https://github.com/estamos/)
 
 ### More solutions available:
 
