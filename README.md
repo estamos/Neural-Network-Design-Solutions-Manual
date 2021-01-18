@@ -32,43 +32,6 @@ ISBN-10 : 0-9717321-1-6 \
 ISBN-13 : 978-0-9717321-1-7 \
 A PDF version of this textbook can be found at : http://hagan.okstate.edu/NNDesign.pdf
 
-### Demos
-
-> This is a set of demonstrations paired with the Neural Network Design & Neural Network Design: Deep Learning books written in Python.
-You can read more about nndesigndemos at [PyPI of project](https://pypi.org/project/nndesigndemos/).
-
-Authors : [Amir Jafari, Martin Hagan, Pedro Uría](mailto:nndesign.demo@gmail.com)
-
-#### Installation
-```bash
-pip install nndesigndemos
-```
-
-#### Virtual environment (recommended)
-```bash
-python3 -m venv env
-source env/bin/activate  # macOS/Linux
-env\Scripts\activate.bat  # Windows
-pip install nndesigndemos
-```
-
-#### Dependencies
-- Python 3.5+
-
-- PyQt5 5.14.1
-
-- NumPy 1.18.1
-
-- SciPy 1.4.1
-
-- Matplotlib 3.1.2
-
-#### Usage
-```py
-from nndesigndemos import nndtoc
-nndtoc()
-```
-
 ### Chapters included :
 
 Chapter | Name |
@@ -132,3 +95,39 @@ E16.1 E16.3 E16.5 E16.7 | [doc](http://web.mst.edu/~dagli/emgt378fall2001/Homewo
 - [Chapter 2 to 4 Notes and exercises by @jtcass01](https://github.com/jtcass01/Neural-Network-Design)
 
 
+### Demos
+
+> This is a set of demonstrations paired with the Neural Network Design & Neural Network Design: Deep Learning books written in Python.
+You can read more about nndesigndemos at [PyPI of project](https://pypi.org/project/nndesigndemos/).
+
+Authors : [Amir Jafari, Martin Hagan, Pedro Uría](mailto:nndesign.demo@gmail.com)
+
+#### Installation
+```bash
+pip install nndesigndemos
+```
+
+#### Virtual environment (recommended)
+```bash
+python3 -m venv env
+source env/bin/activate  # macOS/Linux
+env\Scripts\activate.bat  # Windows
+pip install nndesigndemos
+```
+
+#### Dependencies
+- Python 3.5+
+
+- PyQt5 5.14.1
+
+- NumPy 1.18.1
+
+- SciPy 1.4.1
+
+- Matplotlib 3.1.2
+
+#### Usage
+```py
+from nndesigndemos import nndtoc
+nndtoc()
+```
