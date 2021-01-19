@@ -75,5 +75,9 @@ hessian = function(X) {
   matrix(c(fxx, fxy, fxy, fxx), ncol=2)
 }
 
+# initial points
+p1 = matrix(c(-1, -1), ncol=1)
+
+# Function call
 min = newtons_method(p1,gradient, hessian, 1000, 1e-10, 1)
 
