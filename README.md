@@ -39,6 +39,8 @@ Chapter | Name |
 2  | Neuron Model and Network Architectures
 4  | Perceptron Learning Rule
 7  | Supervised Hebbian Learning
+8  | Performance Surfaces and Optimum Points
+9  | Performance Optimization
 10 | Widrow-Hoff Learning
 11 | Backpropagation
 12 | Variations on Backpropagation
@@ -52,14 +54,16 @@ Chapter | Name |
 
 Chapter | Exercise | Add Date | Update Date | Author(s)
 :------:|:--------:|:--------:|:-----------:|:------:
-2 | E2.6 | 17-01-20 | 17-01-20 | [@estamos](https://github.com/estamos/)
-4 | E4.8 | 17-01-20 | 17-01-20 | [@estamos](https://github.com/estamos/)
-7 | E7.1 E7.2 E7.4 E7.5 E7.6 E7.9 | 03-04-20 | 14-01-21 | [@estamos](https://github.com/estamos/) & [@OUStudent](https://github.com/OUStudent/)
-10 | E10.5 E10.12 | 17-01-20 | 17-01-20  | [@estamos](https://github.com/estamos/)
-11 | E11.9 E11.10 E11.11 E11.13 E11.25 | 17-01-20 | 17-01-20  | [@estamos](https://github.com/estamos/)
-12 | E12.11 E12.7 | 17-01-20 | 17-01-20 | [@estamos](https://github.com/estamos/)
-16 | E16.5 E16.13 | 17-01-20 | 03-04-20 | [@estamos](https://github.com/estamos/)
-17 | E17.3 E17.5 | 17-01-20 | 17-01-20 | [@estamos](https://github.com/estamos/)
+2 | E2.6 | 01/17/20 | 01/17/20 | [@estamos](https://github.com/estamos/)
+4 | E4.8 | 01/17/20 | 01/17-20 | [@estamos](https://github.com/estamos/)
+7 | E7.1 E7.2 E7.4 E7.5 E7.6 E7.9 | 03/04/20 | 14/01/21 | [@estamos](https://github.com/estamos/) & [@OUStudent](https://github.com/OUStudent/)
+8 | E8.1 E8.2 E8.4 E8.7 E8.10 | 01/16/21 | 01/16/21 | [@OUStudent](https://github.com/OUStudent/)
+9 | E9.1 E9.5 E7.7 E9.10 | 01/18/21 | 01/20/21 | [@OUStudent](https://github.com/OUStudent/)
+10 | E10.2 E10.4 E10.5 E10.6 E10.12 | 01/17/20 | 01/20/21 | [@estamos](https://github.com/estamos/) & [@OUStudent](https://github.com/OUStudent/)
+11 | E11.9 E11.10 E11.11 E11.13 E11.25 | 01/17/20 | 01/17/20  | [@estamos](https://github.com/estamos/)
+12 | E12.11 E12.7 | 01/17/20 | 17/01/20 | [@estamos](https://github.com/estamos/)
+16 | E16.5 E16.13 | 01/17/20 | 04/03/20 | [@estamos](https://github.com/estamos/)
+17 | E17.3 E17.5 | 01/17/20 | 01/17/20 | [@estamos](https://github.com/estamos/)
 
 ### More solutions available:
 
@@ -91,3 +95,39 @@ E16.1 E16.3 E16.5 E16.7 | [doc](http://web.mst.edu/~dagli/emgt378fall2001/Homewo
 - [Chapter 2 to 4 Notes and exercises by @jtcass01](https://github.com/jtcass01/Neural-Network-Design)
 
 
+### Demos
+
+> This is a set of demonstrations paired with the Neural Network Design & Neural Network Design: Deep Learning books written in Python.
+You can read more about nndesigndemos at [PyPI of project](https://pypi.org/project/nndesigndemos/).
+
+Authors : [Amir Jafari, Martin Hagan, Pedro Uría](mailto:nndesign.demo@gmail.com)
+
+#### Installation
+```bash
+pip install nndesigndemos
+```
+
+#### Virtual environment (recommended)
+```bash
+python3 -m venv env
+source env/bin/activate  # macOS/Linux
+env\Scripts\activate.bat  # Windows
+pip install nndesigndemos
+```
+
+#### Dependencies
+- Python 3.5+
+
+- PyQt5 5.14.1
+
+- NumPy 1.18.1
+
+- SciPy 1.4.1
+
+- Matplotlib 3.1.2
+
+#### Usage
+```py
+from nndesigndemos import nndtoc
+nndtoc()
+```
