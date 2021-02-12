@@ -44,7 +44,9 @@ Chapter | Name |
 10 | Widrow-Hoff Learning
 11 | Backpropagation
 12 | Variations on Backpropagation
+13 | Generalization
 14 | Dynamic Networks (DNN)
+15 | Associative Learning
 16 | Competitive Networks (CNN)
 17 | Radial Basis Networks (RBF)
 
@@ -61,9 +63,11 @@ Chapter | Exercise | Add Date | Update Date | Author(s)
 9 | E9.1 E9.5 E7.7 E9.10 | 01/18/21 | 01/20/21 | [@OUStudent](https://github.com/OUStudent/)
 10 | E10.2 E10.4 E10.5 E10.6 E10.12 | 01/17/20 | 01/20/21 | [@estamos](https://github.com/estamos/) & [@OUStudent](https://github.com/OUStudent/)
 11 | E11.1 E11.3 E11.6 E11.7 E11.9 E11.10 E11.11 E11.12 E11.13 E11.25 | 01/17/20 | 01/25/21  | [@estamos](https://github.com/estamos/) & [@OUStudent](https://github.com/OUStudent/)
-12 | E12.2 E12.4 E12.7 E12.9 E12.11 | 01/17/20 | 01/25/20 | [@estamos](https://github.com/estamos/)  & [@OUStudent](https://github.com/OUStudent/)
-16 | E16.5 E16.13 | 01/17/20 | 04/03/20 | [@estamos](https://github.com/estamos/)
-17 | E17.3 E17.5 | 01/17/20 | 01/17/20 | [@estamos](https://github.com/estamos/)
+12 | E12.2 E12.4 E12.7 E12.9 E12.11 | 01/17/20 | 01/25/20 | [@estamos](https://github.com/estamos/) & [@OUStudent](https://github.com/OUStudent/)
+13 | E13.3 E13.5 13.13 | 02/12/21 | 02/12/21 | [@OUStudent](https://github.com/OUStudent/)
+15 | E15.1 E15.5 15.9 | 02/12/21 | 02/12/21 | [@OUStudent](https://github.com/OUStudent/)
+16 | E16.3 E16.5 E16.10 E16.13 | 01/17/20 | 02/12/21 | [@estamos](https://github.com/estamos/) & [@OUStudent](https://github.com/OUStudent/)
+17 | E17.3 E17.5 E17.10 E17.11 | 01/17/20 | 02/12/21 | [@estamos](https://github.com/estamos/) & [@OUStudent](https://github.com/OUStudent/)
 
 ### More solutions available:
 
