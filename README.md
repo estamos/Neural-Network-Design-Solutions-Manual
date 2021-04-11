@@ -57,7 +57,7 @@ Chapter | Name |
 Chapter | Exercise | Add Date | Update Date | Author(s)
 :------:|:--------:|:--------:|:-----------:|:------:
 2 | E2.6 | 01/17/20 | 01/17/20 | [@estamos](https://github.com/estamos/)
-4 | E4.8 | 01/17/20 | 01/17-20 | [@estamos](https://github.com/estamos/)
+4 | E4.8 | 01/17/20 | 01/17/20 | [@estamos](https://github.com/estamos/)
 7 | E7.1 E7.2 E7.4 E7.5 E7.6 E7.9 | 03/04/20 | 14/01/21 | [@estamos](https://github.com/estamos/) & [@OUStudent](https://github.com/OUStudent/)
 8 | E8.1 E8.2 E8.4 E8.7 E8.10 | 01/16/21 | 01/16/21 | [@OUStudent](https://github.com/OUStudent/)
 9 | E9.1 E9.5 E7.7 E9.10 | 01/18/21 | 01/20/21 | [@OUStudent](https://github.com/OUStudent/)
