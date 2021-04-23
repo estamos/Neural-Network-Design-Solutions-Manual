@@ -10,7 +10,11 @@
   Neural Network Design (2nd Edition) 
 </p>
 
-<div align="center">
+<p align="center">
+  <img alt="Donate" src="https://img.shields.io/github/last-commit/estamos/Neural-Network-Design-Solutions-Manual" />
+</p>
+
+<p align="center">
   <a href="https://www.paypal.me/evangelosstamos">
     <img alt="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue.svg" />
   </a>
@@ -20,7 +24,7 @@
   <a href="http://hagan.okstate.edu/NNDesign.pdf">
     <img alt="Example PDF" src="https://img.shields.io/badge/Book-pdf-red.svg" />
   </a>
-</div>
+</p>
 
 > This is not a completed Solutions Manual. In case you need help with any exercise of the book or generally you have a question about Neural Networks you can have a look at [Artificial Intelligence Stack Exchange](https://ai.stackexchange.com/), which is the best community to learn and discuss.
 
