@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img alt="Donate" src="https://img.shields.io/github/last-commit/estamos/Neural-Network-Design-Solutions-Manual" />
+  <img src="https://img.shields.io/github/last-commit/estamos/Neural-Network-Design-Solutions-Manual" />
 </p>
 
 <p align="center">
