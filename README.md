@@ -33,7 +33,7 @@
 </p>
 
 > This is not a completed Solutions Manual. In case you need help with any exercise of the book or generally you have a question about Neural Networks you can have a look at [Artificial Intelligence Stack Exchange](https://ai.stackexchange.com/), which is the best community to learn and discuss.
-> You are also welcome to use [discussion](https://github.com/estamos/Neural-Network-Design-Solutions-Manual/discussions) of current repo.
+> You are also welcome to use [discussions](https://github.com/estamos/Neural-Network-Design-Solutions-Manual/discussions) of current repo.
 
 ### [Book](https://hagan.okstate.edu/nnd.html) details 
 
