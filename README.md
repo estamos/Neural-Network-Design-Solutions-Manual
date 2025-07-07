@@ -23,13 +23,6 @@
   </a>
 </p>
 
-> Dear community, all of my repositories were, are and will be in the future **completely free**. If you appreciate my work, please consider making a donation to help me keep up my work. 😄
-<p align="center">
-  <a href="https://www.buymeacoffee.com/estamos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-  <a href="https://www.paypal.me/evangelosstamos" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/2560px-PayPal.svg.png" alt="Paypal Donation" style="height: 60px !important;width: 217px !important;" ></a>
-</p>
-
-
 > This is not a completed Solutions Manual. In case you need help with any exercise of the book or generally you have a question about Neural Networks you can have a look at [Artificial Intelligence Stack Exchange](https://ai.stackexchange.com/), which is the best community to learn and discuss.
 > You are also welcome to use [discussions](https://github.com/estamos/Neural-Network-Design-Solutions-Manual/discussions) of this repository.
 
