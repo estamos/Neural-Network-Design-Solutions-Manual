@@ -73,6 +73,8 @@ Chapter | Exercise | Add Date | Update Date | Author(s)
 
 ### More solutions available:
 
+#### ⚠️ Some of the following links may lead to 404s, considering they are quite old. Try to retrieve them through [Wayback Machine](https://web.archive.org/).
+
 #### &#x1F536; Note that for many exercises below enumeration is based on the 1st edition book .
 
 Title : Neural Network Design \
